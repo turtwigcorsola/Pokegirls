@@ -1,4 +1,4 @@
-# Elf, the Sylvan Warrior Pokegirl
+# Elf, the Sylvan FUCKING SLUT
 
 ![image](../images/elf.jpg)
 
