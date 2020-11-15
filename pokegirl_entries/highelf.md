@@ -1,7 +1,7 @@
 # High Elf, the Noble Fighter Elf Pokegirl
 
 
-![image](images/highelf.jpg)
+![image](../images/highelf.jpg)
 
 **TL;DR**
 Incredibly adept at long-range combat against any target they can see, when feral they’re easier to approach as they become overall sleepy and lethargic.  
