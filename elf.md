@@ -23,7 +23,7 @@
 **Evolves From**: NONE.  
 
 ### Introduction
-What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes?
+**What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes?**
  
 During the Revenge War the Elf made the forests of the world a nightmare place for humans trying to move through them. Their prime tactics were ambushes at the edges of forests and long ranged hit-and-run, as well as plant manipulation to change the otherwise scouted wilderness into seemingly a completely new place. They were led by their queens *insert link here* and have a natural affinity to submit to the will of the breeds designed as their leaders.
 
@@ -31,32 +31,32 @@ Elves range from 90cm to 165cm, with the average of 130cm tall. The tallest Elf 
 
 
 ### Society
-**How do these pokegirls tend to live in normal society? What uses/jobs do they tend to gravitate towards? Does there tend to be perceptions about them that are true? False? Exaggerated? Have there been in-Famous/Distinguishable events involving this breed?
+**How do these pokegirls tend to live in normal society? What uses/jobs do they tend to gravitate towards? Does there tend to be perceptions about them that are true? False? Exaggerated? Have there been in-Famous/Distinguishable events involving this breed?**
 
 Some Elves respond to a call of the queen *insert a link* live in elven courts. Relations between courts and leagues differ greatly. Those on amicable terms with their league usually help with harvests by amplifying plant growth and calling rains in exchange for human tamers. Courts unwilling to cooperate are called unseelie and turn to kidnapping and robbery to maintain themselves. Most elves are ranch-owned and usually do the same thing as their court kin. Since some Elves live in courts by their own laws some people are suspicious of their entire breed.
 
 
 ### The Individual
-**Does the breed have a tendency to show certain personality traits? Taming preferences? How the breed typically interacts with others in the harem? What needs/quirks does the pokegirl have that a tamer should be aware of? What could be a good way to handle them? Is there any particular role or activity the breed is known to enjoy/hate?
+**Does the breed have a tendency to show certain personality traits? Taming preferences? How the breed typically interacts with others in the harem? What needs/quirks does the pokegirl have that a tamer should be aware of? What could be a good way to handle them? Is there any particular role or activity the breed is known to enjoy/hate?**
 
 Elves like being in the wilderness. Other than that their specific tastes vary from individual to individual, but it is a fact that an Elf who is only tamed indoors is not a happy Elf. In an urban setting, an Elf will always try to find or create a wilderness area to spend time in. Forbidding an Elf to fill this need is almost certain to result in her leaving at the next Sadie Pokens. In harems Elf tends to ignore or make fun of breeds that aren’t Elves.
 
 
 ### Fighting
-**Do they fight? What is a commonly found strategy they tend to use during a battle? What are their strengths and weaknesses? What should be one’s approach to defeat them? How could one improve their combat prowess?
+**Do they fight? What is a commonly found strategy they tend to use during a battle? What are their strengths and weaknesses? What should be one’s approach to defeat them? How could one improve their combat prowess?**
 
 With any bow, an Elf can hit just about any target anywhere within 150% of that bow’s range, and with arrow shot they can guarantee a lot of damage. Elves prefer ranged combat and their spell repertoires will reflect this, with most wanting to learn spells and magic techniques like rune chain or mana bolt since they can use it to keep enemies away from them. In melee combat the Elf fares poorly. She can use Thorn Cutlass if she has some thorns handy on her. She also can use man-made knives and swords, but prefers to increase the distance and use ranged options instead.
 
 
 
 ### Feral
-**How do ferals of this breed act? What habitat do they prefer? Are there other breeds they’ve been found to interact with (negatively/positively)? Does it tend to be solitary or does the breed tend to move in groups? What’s something to look out for when encountering a feral of this breed? What strategies usually work best for capturing them?
+**How do ferals of this breed act? What habitat do they prefer? Are there other breeds they’ve been found to interact with (negatively/positively)? Does it tend to be solitary or does the breed tend to move in groups? What’s something to look out for when encountering a feral of this breed? What strategies usually work best for capturing them?**
 
 At the beginning of going feral, Elf will become sleepy and will search a place to hibernate. Elves can be quite creative in this search and feral Elves have been found in caved-in caverns, buried underneath fallen trees and even inside walls. During hibernation Elf doesnt breath, doesn't age, doesn't bleed and her heart doesn't beat, although a wound which would kill a woke Elf will kill a hibernating one. For taming Elf out of this state use of lubricant is recommended.
 
 
 ### Threshold
-**Is it possible to threshold into this breed? Are threshold cases into this breed frequent? With what ancestry usually results in turning into this breed? How long does it take? Are there early signs? What about precautions one should take when undergoing threshold into this pokegirl? What’s the best way to handle a thresholded pokegirl in your harem?
+**Is it possible to threshold into this breed? Are threshold cases into this breed frequent? With what ancestry usually results in turning into this breed? How long does it take? Are there early signs? What about precautions one should take when undergoing threshold into this pokegirl? What’s the best way to handle a thresholded pokegirl in your harem?**
 
 As the young woman becomes an Elf, the magic inherent in the breed causes the transformation to almost always happen overnight without any pain. In most cases the new Elf will immediately respond to the call of the closest Elf court and run away if not restrained. For this reason, threshold Elves are seldom found at Ranches.
 
