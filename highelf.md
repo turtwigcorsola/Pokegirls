@@ -25,7 +25,7 @@ Incredibly adept at long-range combat against any target they can see, when fera
 **Evolves From**: Elf (Normal).  
 
 ### Introduction  
-**What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes? ** 
+**What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes?** 
 
 (More mature version of elves, during the war they were considered deadly snipers capable of shooting down targets without even being seen)
 
@@ -65,7 +65,7 @@ Incredibly adept at long-range combat against any target they can see, when fera
 
 
 
-Original Entry
+### Original Entry
 
 If the Elf is the foot soldier and grunt fighter of the elven court, then the High Elf is noble warrior. Magically she becomes much more powerful than before. Though her skill is not on the level of the true mages of the Elf Court, she could certainly hold her own in a magical battle. The High Elf is very similar in appearance to the Elf. They grow about a foot, and become slimmer. Sometimes they may increase a cup size, but this rare. They like having their hair long, but not so long that it becomes a hinderance. High Elves are treated as a Ranger might in pre-Sukebe medieval times. They are far below the queen or her advisors, but well above the regular Elves. Some Elfqueens have them as the royal guard, and others employ them as scouts, having them sweep the area around the Elf Court for intruders.
 
