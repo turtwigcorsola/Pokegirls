@@ -25,7 +25,7 @@
 
 ### Introduction
 What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes?
-
+ 
 During the Revenge War the Elf made the forests of the world a nightmare place for humans trying to move through them. Their prime tactics were ambushes at the edges of forests and long ranged hit-and-run, as well as plant manipulation to change the otherwise scouted wilderness into seemingly a completely new place. They were led by their queens *insert link here* and have a natural affinity to submit to the will of the breeds designed as their leaders.
 
 Elves range from 90cm to 165cm, with the average of 130cm tall. The tallest Elf recorded was a whopping 175cm. All Elves are thin and slender. Their pointed ears range from human sized ears to towering above their owner’s head. Their skin and eyes wary as much as humans’ does, including albinos.
