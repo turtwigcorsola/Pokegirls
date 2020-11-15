@@ -3,25 +3,24 @@
 **TL;DR** The feral state of the elf places them into deep hibernation. If encountered in any other state, they are tamed and it should be considered they are not alone.
 
 **Breakdown**  
+
 **Type**: Very Near Human.  
 **Element**: Magic / Plant.  
 **Tier**: 1.  
 **Frequency**: Uncommon [Group].  
 **Environ**: Forest, Jungle, Plains, Ruins.  
- 
-**Diet**: Omnivore, preference for Vegetarian.
-**Role**: Farming, Forest Warriors, Rangers, Scouts.
-**Feral Onset Rate**: 15 days.
+**Diet**: Omnivore, preference for Vegetarian.  
+**Role**: Farming, Forest Warriors, Rangers, Scouts.  
+**Feral Onset Rate**: 15 days.  
+**Strong Vs**: ELECTRIC, GROUND, ROCK, WATER, DRAGON, GHOST.  
+**Weak Vs**: BUG, FIRE, ICE, POISON, NORMAL, PSYCHIC, STEEL.  
+**Attacks**:  Absorb, Arrow Shot, Binding Arrow, Command Plants, Heal, Little Cloud, Thorn Cutlass.  
 
-**Strong Vs**: ELECTRIC, GROUND, ROCK, WATER, DRAGON, GHOST.
-**Weak Vs**: BUG, FIRE, ICE, POISON, NORMAL, PSYCHIC, STEEL.
-**Attacks**:  Absorb, Arrow Shot, Binding Arrow, Command Plants, Heal, Little Cloud, Thorn Cutlass.
+**Numbered Enhancements**: Endurance x2, Agility x2, SpAtk x3, SpDef x2, Sight x3, Hearing x3.  
+**Other Enhancements**: Longevity, Hibernation (involuntary upon going feral), Aptitude (Archery), Empathy (Plants).  
 
-**Numbered Enhancements**: Endurance x2, Agility x2, SpAtk x3, SpDef x2, Sight x3, Hearing x3.
-**Other Enhancements**: Longevity, Hibernation (involuntary upon going feral), Aptitude (Archery), Empathy (Plants).
-
-**Evolves**: High-Elf (Normal), Gardelfwhor (Euphoria), Pinielf (Item).
-**Evolves From**: NONE.
+**Evolves**: High-Elf (Normal), Gardelfwhor (Euphoria), Pinielf (Item).  
+**Evolves From**: NONE.  
 
 ### Introduction
 What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes?
