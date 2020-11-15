@@ -22,7 +22,7 @@ Incredibly adept at long-range combat against any target they can see, when fera
 **Other Enhancements**: Aura Sight, Longevity, Intuitive Aptitude (Bows), Intuitive Knowledge (Terrain), Blank Mind.  
 
 **Evolves**: Golden Elf (Normal).  
-**Evolves From**: Elf (Normal).  
+**Evolves From**: [Elf](elf.md) (Normal).  
 
 ### Introduction  
 **What’s the breed’s origins/discovery? Did they have an appearance/impact in the war (if it applies)? What are their distinguishing physical attributes?** 
