@@ -8,7 +8,7 @@
 **Tier**: 1.
 **Frequency**: Uncommon [Group].
 **Environ**: Forest, Jungle, Plains, Ruins.
-
+ 
 **Diet**: Omnivore, preference for Vegetarian.
 **Role**: Farming, Forest Warriors, Rangers, Scouts.
 **Feral Onset Rate**: 15 days.
