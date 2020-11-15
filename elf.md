@@ -19,7 +19,7 @@
 **Numbered Enhancements**: Endurance x2, Agility x2, SpAtk x3, SpDef x2, Sight x3, Hearing x3.  
 **Other Enhancements**: Longevity, Hibernation (involuntary upon going feral), Aptitude (Archery), Empathy (Plants).  
 
-**Evolves**: [High-Elf](Test/highelf.md) (Normal), Gardelfwhor (Euphoria), Pinielf (Item).  
+**Evolves**: [High-Elf](highelf.md) (Normal), Gardelfwhor (Euphoria), Pinielf (Item).  
 **Evolves From**: NONE.  
 
 ### Introduction
