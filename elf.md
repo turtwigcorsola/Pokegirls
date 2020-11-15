@@ -2,13 +2,12 @@
 
 **TL;DR** The feral state of the elf places them into deep hibernation. If encountered in any other state, they are tamed and it should be considered they are not alone.
 
-**Breakdown**
-
-**Type**: Very Near Human.
-**Element**: Magic / Plant.
-**Tier**: 1.
-**Frequency**: Uncommon [Group].
-**Environ**: Forest, Jungle, Plains, Ruins.
+**Breakdown**  
+**Type**: Very Near Human.  
+**Element**: Magic / Plant.  
+**Tier**: 1.  
+**Frequency**: Uncommon [Group].  
+**Environ**: Forest, Jungle, Plains, Ruins.  
  
 **Diet**: Omnivore, preference for Vegetarian.
 **Role**: Farming, Forest Warriors, Rangers, Scouts.
